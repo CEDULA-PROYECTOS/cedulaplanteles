@@ -1,6 +1,6 @@
 **SISTEMA WEB DENOMINADO CEDULA DE PLANTELES**
 
-**DEPENDENCIA: INSTITUTO DE ESTUDIOS DE BACHILLERATO DEL ESTADO DE OAXACA (IEBO)**
+**DEPENDENCIA ESTATAL: INSTITUTO DE ESTUDIOS DE BACHILLERATO DEL ESTADO DE OAXACA (IEBO)**
 
 **LINK: http://sistemas.iebo.edu.mx/cedulaplanteles/**
 
@@ -8,18 +8,21 @@
 
 **USUARIOS (BENEFICIOS):**
 
-** 1.- DIRECTORES DE PLANTELES: Les permite acceder a la información relacionada con el plantel a su cargo, para actualizarla o validarla de forma anual o semestral.
-** 2.- ADMINISTRATIVOS: Le permite generar gestionar usuarios, contraseñas, así como consultas, reportes y gráficas para articular los elementos y mecanismos necesarios para conocer la operación, desarrollo, fortalecimiento y mejora, de los planteles IEBO en el Estado. Esto contribuye a la integración de propuestas de mejoras para los planteles a través de los diferentes programas de financiamiento tanto federales, estatales y municipales.
-** 3.- USUARIOS DE CONSULTA: Les permite acceder a la información de cada plantel, también para generar consultas o reportes de datos de los planteles desde cualquier lugar con acceso a internet; y así contribuir con información en los procesos administrativos.
+**1.- DIRECTORES DE PLANTELES:** Les permite acceder a la información relacionada con el plantel a su cargo, para actualizarla o validarla de forma anual o semestral.
+**2.- ADMINISTRATIVOS:** Le permite generar gestionar usuarios, contraseñas, así como consultas, reportes y gráficas para articular los elementos y mecanismos necesarios para conocer la operación, desarrollo, fortalecimiento y mejora, de los planteles IEBO en el Estado. Esto contribuye a la integración de propuestas de mejoras para los planteles a través de los diferentes programas de financiamiento tanto federales, estatales y municipales.
+**3.- USUARIOS DE CONSULTA:** Les permite acceder a la información de cada plantel, también para generar consultas o reportes de datos de los planteles desde cualquier lugar con acceso a internet; y así contribuir con información en los procesos administrativos.
 
 **CARACTERÍSTICAS DEL SISTEMA:**
-** 1.- Se genera una bitácora en el sistema para el control de actualizaciones realizadas por los directores de planteles, registrando el campo y valor asignado, así como la fecha y hora realizada, permitiendo evaluar el desempeño y puntualidad de los directores. 
-** 2.- Proveer de información sobre los planteles a los usuarios administrativos o de consulta para la toma de decisiones.
-** 3.- Contribuye a la generación e integración de propuestas de mejoras en infraestructura y equipamiento para los planteles a través de los diferentes Programas de Financiamiento tanto Federales, Estatales o Municipales. 
+
+**1.- Se genera una bitácora en el sistema para el control de actualizaciones realizadas por los directores de planteles, registrando el campo y valor asignado, así como la fecha y hora realizada, permitiendo evaluar el desempeño y puntualidad de los directores. 
+
+**2.- Proveer de información sobre los planteles a los usuarios administrativos o de consulta para la toma de decisiones.
+
+**3.- Contribuye a la generación e integración de propuestas de mejoras en infraestructura y equipamiento para los planteles a través de los diferentes Programas de Financiamiento tanto Federales, Estatales o Municipales. 
 
 ** **TECNOLOGIAS UTILIZADAS:**
 
-** 1.- Frontend:
+**1.- Frontend:**
 * HTML5
 * CSS3
 * JavaScript 
@@ -27,7 +30,7 @@
 * highcharts: https://www.highcharts.com/
 * Bootstrap (En formato general) https://getbootstrap.com/
 
-** 2.- Backend:
+**2.- Backend:**
 * PHP 8.3.14
 * MySQL 9.1
 * Servidor HTTP Apache
@@ -38,9 +41,10 @@ Cotejamiento: utf8mb4_0900_ai_ci
 
 
 ** **ESTRUCTURA DEL PROYECTO**
-** cedulaplanteles/
+**cedulaplanteles/**
 
 ├───2014A
+│
 ├───Bibliotecas
 │   ├───code   
 │   ├───css
