@@ -155,7 +155,7 @@
   
 **Instalación:**  
 Clonar el repositorio:
-cd /var/www/html
+cd /var/www/html  
 git clone https://github.com/hugosantiagoiebo/cedula_planteles
 
 **7.- ESTABLECER PERMISOS DE LECTURA Y ESCRITURA:**  
@@ -180,7 +180,7 @@ cedulaplanteles/librerías/blueimp/example/scripts/macrolocalizacion
 cedulaplanteles/librerías/blueimp/example/scripts/microlocalizacion
 cedulaplanteles/librerías/blueimp/example/scripts/proyecto_productivo
 
-**9.- CONTACTO:**  
+**8.- CONTACTO:**  
 Dirección de Planeación y Vinculación Educativa  
 Departamento de Apoyo a Proyectos Educativos   
 Actualización y seguimiento de información en el sistema informático “Cedula de planteles”.  
